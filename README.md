@@ -1,78 +1,130 @@
-Birhanu Abebe
-Senior Application Security Auditor | Penetration Tester
+Hello, I'm Birhanu Abebe
 
-Technical Skills:
+<a href="https://www.linkedin.com/in/alpha01b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-    Penetration Testing: Web Application Penetration Testing, Mobile Penetration Testing, Network Penetration Testing, Ethical Hacking (Linux)
+Information Network Security Agency (INSA) leverages my expertise as a Senior Application Security Engineer to protect critical systems. My contributions focus on cybersecurity risk assessments and delivering secure solutions for high-impact projects, including engagements with the National Bank of Ethiopia. These efforts demonstrate a collaborative approach to enhancing IT infrastructure integrity and resilience.
 
-    Security Assessment: Cybersecurity Risk Assessment, Static Analysis, Dynamic Analysis, Vulnerability Identification & Remediation
+Pursuing a Master's in Cybersecurity at Addis Ababa University, combined with a Computer Science background from Arba Minch University, informs my technical and strategic approach. My certifications in API penetration testing further enhance my ability to address emerging threats. I am committed to advancing secure digital ecosystems while fostering teamwork and innovation.
+Objective
 
-    Security Technologies: PKI Engineering, CA Configuration and Management, Data Center Security Configuration, SSL/TLS, IDAM, Code Signing
+Leveraging 7+ years of experience in application and system security, coupled with a Master's in Cybersecurity, I am seeking a challenging role as a Security Operations Center (SOC) Tier 1 Analyst. My objective is to apply my expertise in cybersecurity risk assessment, incident response, and secure solution delivery to protect critical systems, analyze security events, and contribute to a proactive defense posture. I am eager to learn and grow within a dynamic cybersecurity environment.
+Skills
 
-    Tools & Methodologies: Automation Tools, Industry Best Practices, Custom Framework Development
+Skill
+	
 
-Education:
+Associated Project
 
-    Master of Cybersecurity, Specialization in Governance (Candidate) | Addis Ababa University Institute of Technology (AAIT) (May 2018 - 2024)
+API Development
+	
 
-    Bachelor's degree in Computer Science | University of Arba Minch Institute of Technology (AMIT) (September 2013 - Jun 2016)
+<a href="https://github.com/yourusername/api-security-project">API Security Project</a>
 
-Work Experience:
+Web Application Security
+	
 
-Senior Application Security Auditor @ Information Network Security Administrator (INSA) (January 2024 - Present)
+<a href="https://github.com/yourusername/web-app-security-audit">Web App Security Audit</a>
 
-    Conducting comprehensive IT audits and collaborating with cross-functional teams to ensure cybersecurity compliance.
+Cybersecurity Risk Assessment
+	
 
-    Developing and implementing audit plans, evaluating IT systems for vulnerabilities, and leading training sessions.
+<a href="https://github.com/yourusername/risk-assessment-framework">Risk Assessment Framework</a>
 
-    Analyzing audit findings, utilizing automation tools, and staying up-to-date with the latest security threats and trends.
+PKI Services
+	
 
-    Mentoring junior auditors to develop their skills and knowledge.
+<a href="https://github.com/yourusername/pki-implementation-lab">PKI Implementation Lab</a>
 
-    Key Achievement: Uncovered critical vulnerability involving sensitive user data, including hashed passwords, inadvertently exposed within JWT payloads during penetration testing.
+Secure Cryptographic Solutions
+	
 
-Data Center Facility and Electronics Security Risk Assessment Team Leader (June 2022 - June 2023)
+<a href="https://github.com/yourusername/crypto-solutions-project">Crypto Solutions Project</a>
 
-    Assisted with managing the performance of the security team and its individual members.
+SIEM Implementation & Log Analysis
+	
 
-    Created, updated, and maintained system and security documentation and configuration data for regulatory compliance.
+<a href="https://github.com/yourusername/detection-lab">Detection Lab</a>
 
-    Recommended and implemented best practices for data center security.
+Network Traffic Monitoring & Attack Detection
+	
 
-Systems Security Engineer (March 2018 - June 2022)
+<a href="https://github.com/yourusername/detection-lab">Detection Lab</a>
 
-    Responsible for implementing and integrating PKI services within highly controlled environments.
+Incident Response Planning & Execution
+	
 
-    Worked with PKI software and hardware components, developed low-level design and integration specifications, and created test scripts.
+<a href="https://github.com/yourusername/soc-automation-lab">SOC Automation Lab</a>
 
-    Collaborated with cross-functional teams, contributing to security architecture and troubleshooting complex issues.
+Security Automation
+	
 
-    Ensured the successful delivery of secure, cost-effective solutions.
+<a href="https://github.com/yourusername/soc-automation-lab">SOC Automation Lab</a>
 
-    Provided technical expertise on PKI concepts, cryptographic technologies, and certificate-enabled applications such as SSL/TLS, IDAM, and Code Signing.
+Ethical Hacking
+	
 
-Projects:
+<a href="https://github.com/yourusername/penetration-testing-exercises">Penetration Testing Exercises</a>
+Tools
+Network
 
-Vulnerability Discovery: Sensitive Data in JWT Payloads
+<div>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+Endpoint
 
-    Identified a critical security flaw during penetration testing where sensitive user data, including hashed passwords, was exposed in JSON Web Token (JWT) payloads.
+<div>
+<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+SIEM
 
-    Documented the vulnerability and provided recommendations for remediation to enhance application security posture.
+<div>
+<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+Other Security Tools
 
-Cybersecurity Risk Assessment Framework Development & Application
+<div>
+<img src="https://img.shields.io/badge/-OWASP_ZAP-777BB4?&style=for-the-badge&logo=OWASP&logoColor=white" />
+<img src="https://img.shields.io/badge/-TheHive-F05032?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shuffle_SOAR-8A2BE2?&style=for-the-badge&logoColor=white" />
+</div>
+Certifications
 
-    Led the development and customization of a cybersecurity risk assessment framework tailored to organizational needs.
+<div>
+<img src="https://img.shields.io/badge/-Certified%20AppSec%20Practitioner%20v2%20(CAP)-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified%20API%20Security%20Analyst-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-APIsec%20Certified%20Practitioner-222222?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-API%20Penetration%20Testing%20(12%20hrs)-FF5733?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Getting%20Started%20in%20API%20Pen-Testing-FFC300?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Offensive%20Penetration%20Testing-8B0000?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+<img src="https://img.shields.io/badge/-Penetration%20Testing%20Professional-4B0082?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISO%2FIEC%2027001%3A2022%20Lead%20Auditor-008080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Career%20Essentials%20in%20GitHub-24292E?&style=for-the-badge&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/-Career%20Essentials%20in%20System%20Admin-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure%20AI%20Essentials-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybersecurity%20(ADBI)-1E90FF?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-APIsec%20University%20Ambassador-FFD700?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-APISEC%7CCON%202025%20Attendance-6A5ACD?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Introduction%20to%20Cybersecurity%20Tools-4285F4?&style=for-the-badge&logo=Coursera&logoColor=white" />
+</div>
+Projects
 
-    Applied the framework to assess the security posture of various external organizations, including the National Bank of Ethiopia, Walata TV, and Adigerat University, providing invaluable real-world insights.
+    API Security Project
 
-PKI System Implementation and Integration
+    Web App Security Audit
 
-    Successfully implemented and integrated Public Key Infrastructure (PKI) services to enhance secure communication and digital signatures within highly controlled environments.
+    Risk Assessment Framework
 
-    Developed design specifications and test scripts for PKI components.
+    PKI Implementation Lab
 
-Certifications:
+    Crypto Solutions Project
 
-    CompTIA Security+
+    Detection Lab
 
-    Certified in Cybersecurity (CC) from ISC2
+    SOC Automation Lab
+
+    Penetration Testing Exercises
