@@ -40,10 +40,7 @@ PKI Services
 
 <a href="https://github.com/yourusername/pki-services-implementation">PKI Services Implementation</a>
 
-Secure Cryptographic Solutions
-	
-
-<a href="https://github.com/yourusername/cryptographic-solutions">Cryptographic Solutions</a>
+ 
 Certifications
 
 <div>
