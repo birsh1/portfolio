@@ -1,5 +1,5 @@
 Hello, I'm Birhanu Abebe
-
+https://github.com/birsh1/portfolio/blob/main/profile%20github.png?raw=true
 <a href="https://www.linkedin.com/in/alpha01b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Information Network Security Agency (INSA) leverages my expertise as a Senior Application Security Engineer to protect critical systems. My contributions focus on cybersecurity risk assessments and delivering secure solutions for high-impact projects, including engagements with the National Bank of Ethiopia. These efforts demonstrate a collaborative approach to enhancing IT infrastructure integrity and resilience.
